@@ -1,0 +1,16 @@
+C:\Users\LineK\RiderProjects\Solution1\session1\s1_numbers\bin\Debug\net5.0\s1_numbers.exe
+C:\Users\LineK\RiderProjects\Solution1\session1\s1_numbers\bin\Debug\net5.0\s1_numbers.deps.json
+C:\Users\LineK\RiderProjects\Solution1\session1\s1_numbers\bin\Debug\net5.0\s1_numbers.runtimeconfig.json
+C:\Users\LineK\RiderProjects\Solution1\session1\s1_numbers\bin\Debug\net5.0\s1_numbers.runtimeconfig.dev.json
+C:\Users\LineK\RiderProjects\Solution1\session1\s1_numbers\bin\Debug\net5.0\s1_numbers.dll
+C:\Users\LineK\RiderProjects\Solution1\session1\s1_numbers\bin\Debug\net5.0\ref\s1_numbers.dll
+C:\Users\LineK\RiderProjects\Solution1\session1\s1_numbers\bin\Debug\net5.0\s1_numbers.pdb
+C:\Users\LineK\RiderProjects\Solution1\session1\s1_numbers\obj\Debug\net5.0\s1_numbers.csproj.AssemblyReference.cache
+C:\Users\LineK\RiderProjects\Solution1\session1\s1_numbers\obj\Debug\net5.0\s1_numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LineK\RiderProjects\Solution1\session1\s1_numbers\obj\Debug\net5.0\s1_numbers.AssemblyInfoInputs.cache
+C:\Users\LineK\RiderProjects\Solution1\session1\s1_numbers\obj\Debug\net5.0\s1_numbers.AssemblyInfo.cs
+C:\Users\LineK\RiderProjects\Solution1\session1\s1_numbers\obj\Debug\net5.0\s1_numbers.csproj.CoreCompileInputs.cache
+C:\Users\LineK\RiderProjects\Solution1\session1\s1_numbers\obj\Debug\net5.0\s1_numbers.dll
+C:\Users\LineK\RiderProjects\Solution1\session1\s1_numbers\obj\Debug\net5.0\ref\s1_numbers.dll
+C:\Users\LineK\RiderProjects\Solution1\session1\s1_numbers\obj\Debug\net5.0\s1_numbers.pdb
+C:\Users\LineK\RiderProjects\Solution1\session1\s1_numbers\obj\Debug\net5.0\s1_numbers.genruntimeconfig.cache

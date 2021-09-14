@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Session1_introduction", "Session1_introduction", "{EAB7ECBB-0804-4AFC-9F72-96BBE29BA809}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Session2_introduction", "Session2_introduction", "{833D159F-F77C-4584-AD39-CEC6AD6142D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "s1_person", "session1\s1_person\s1_person.csproj", "{475756B2-9B86-4E11-BFF3-BF1A51C85E7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "s1_numbers", "session1\s1_numbers\s1_numbers.csproj", "{1799509F-10CC-492F-8387-F81A8531A39F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "s1_calculator", "session1\s1_calculatornamespace\s1_calculator\s1_calculator.csproj", "{1A13C945-7C63-4E72-813E-D8E85297FE9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "s1_MoreMath", "Session1\s1_MoreMath\s1_MoreMath.csproj", "{FE67EBD6-7CBB-4E0E-9729-DBBCA321FF30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "s2_polymorfism", "Session2\s2_polymorfism\s2_polymorfism.csproj", "{8688795F-9D00-4C27-AA30-BEF38C018666}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "s2_WaitingRoom", "Session2\s2_WaitingRoom\s2_WaitingRoom.csproj", "{F3049987-2F4C-434B-BE4B-5307F20FAC0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{475756B2-9B86-4E11-BFF3-BF1A51C85E7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{475756B2-9B86-4E11-BFF3-BF1A51C85E7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{475756B2-9B86-4E11-BFF3-BF1A51C85E7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{475756B2-9B86-4E11-BFF3-BF1A51C85E7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1799509F-10CC-492F-8387-F81A8531A39F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1799509F-10CC-492F-8387-F81A8531A39F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1799509F-10CC-492F-8387-F81A8531A39F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1799509F-10CC-492F-8387-F81A8531A39F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A13C945-7C63-4E72-813E-D8E85297FE9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A13C945-7C63-4E72-813E-D8E85297FE9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A13C945-7C63-4E72-813E-D8E85297FE9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A13C945-7C63-4E72-813E-D8E85297FE9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE67EBD6-7CBB-4E0E-9729-DBBCA321FF30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE67EBD6-7CBB-4E0E-9729-DBBCA321FF30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE67EBD6-7CBB-4E0E-9729-DBBCA321FF30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE67EBD6-7CBB-4E0E-9729-DBBCA321FF30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8688795F-9D00-4C27-AA30-BEF38C018666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8688795F-9D00-4C27-AA30-BEF38C018666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8688795F-9D00-4C27-AA30-BEF38C018666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8688795F-9D00-4C27-AA30-BEF38C018666}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3049987-2F4C-434B-BE4B-5307F20FAC0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3049987-2F4C-434B-BE4B-5307F20FAC0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3049987-2F4C-434B-BE4B-5307F20FAC0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3049987-2F4C-434B-BE4B-5307F20FAC0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{475756B2-9B86-4E11-BFF3-BF1A51C85E7F} = {EAB7ECBB-0804-4AFC-9F72-96BBE29BA809}
+		{1799509F-10CC-492F-8387-F81A8531A39F} = {EAB7ECBB-0804-4AFC-9F72-96BBE29BA809}
+		{1A13C945-7C63-4E72-813E-D8E85297FE9F} = {EAB7ECBB-0804-4AFC-9F72-96BBE29BA809}
+		{FE67EBD6-7CBB-4E0E-9729-DBBCA321FF30} = {EAB7ECBB-0804-4AFC-9F72-96BBE29BA809}
+		{8688795F-9D00-4C27-AA30-BEF38C018666} = {833D159F-F77C-4584-AD39-CEC6AD6142D9}
+		{F3049987-2F4C-434B-BE4B-5307F20FAC0A} = {833D159F-F77C-4584-AD39-CEC6AD6142D9}
+	EndGlobalSection
+EndGlobal

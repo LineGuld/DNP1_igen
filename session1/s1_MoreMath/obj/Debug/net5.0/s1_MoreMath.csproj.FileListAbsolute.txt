@@ -1,0 +1,16 @@
+C:\Users\LineK\RiderProjects\Solution1\Session1\s1_MoreMath\bin\Debug\net5.0\s1_MoreMath.exe
+C:\Users\LineK\RiderProjects\Solution1\Session1\s1_MoreMath\bin\Debug\net5.0\s1_MoreMath.deps.json
+C:\Users\LineK\RiderProjects\Solution1\Session1\s1_MoreMath\bin\Debug\net5.0\s1_MoreMath.runtimeconfig.json
+C:\Users\LineK\RiderProjects\Solution1\Session1\s1_MoreMath\bin\Debug\net5.0\s1_MoreMath.runtimeconfig.dev.json
+C:\Users\LineK\RiderProjects\Solution1\Session1\s1_MoreMath\bin\Debug\net5.0\s1_MoreMath.dll
+C:\Users\LineK\RiderProjects\Solution1\Session1\s1_MoreMath\bin\Debug\net5.0\ref\s1_MoreMath.dll
+C:\Users\LineK\RiderProjects\Solution1\Session1\s1_MoreMath\bin\Debug\net5.0\s1_MoreMath.pdb
+C:\Users\LineK\RiderProjects\Solution1\Session1\s1_MoreMath\obj\Debug\net5.0\s1_MoreMath.csproj.AssemblyReference.cache
+C:\Users\LineK\RiderProjects\Solution1\Session1\s1_MoreMath\obj\Debug\net5.0\s1_MoreMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LineK\RiderProjects\Solution1\Session1\s1_MoreMath\obj\Debug\net5.0\s1_MoreMath.AssemblyInfoInputs.cache
+C:\Users\LineK\RiderProjects\Solution1\Session1\s1_MoreMath\obj\Debug\net5.0\s1_MoreMath.AssemblyInfo.cs
+C:\Users\LineK\RiderProjects\Solution1\Session1\s1_MoreMath\obj\Debug\net5.0\s1_MoreMath.csproj.CoreCompileInputs.cache
+C:\Users\LineK\RiderProjects\Solution1\Session1\s1_MoreMath\obj\Debug\net5.0\s1_MoreMath.dll
+C:\Users\LineK\RiderProjects\Solution1\Session1\s1_MoreMath\obj\Debug\net5.0\ref\s1_MoreMath.dll
+C:\Users\LineK\RiderProjects\Solution1\Session1\s1_MoreMath\obj\Debug\net5.0\s1_MoreMath.pdb
+C:\Users\LineK\RiderProjects\Solution1\Session1\s1_MoreMath\obj\Debug\net5.0\s1_MoreMath.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\LineK\RiderProjects\Solution1\Session2\s2_polymorfism\bin\Debug\net5.0\s2_polymorfism.exe
+C:\Users\LineK\RiderProjects\Solution1\Session2\s2_polymorfism\bin\Debug\net5.0\s2_polymorfism.deps.json
+C:\Users\LineK\RiderProjects\Solution1\Session2\s2_polymorfism\bin\Debug\net5.0\s2_polymorfism.runtimeconfig.json
+C:\Users\LineK\RiderProjects\Solution1\Session2\s2_polymorfism\bin\Debug\net5.0\s2_polymorfism.runtimeconfig.dev.json
+C:\Users\LineK\RiderProjects\Solution1\Session2\s2_polymorfism\bin\Debug\net5.0\s2_polymorfism.dll
+C:\Users\LineK\RiderProjects\Solution1\Session2\s2_polymorfism\bin\Debug\net5.0\ref\s2_polymorfism.dll
+C:\Users\LineK\RiderProjects\Solution1\Session2\s2_polymorfism\bin\Debug\net5.0\s2_polymorfism.pdb
+C:\Users\LineK\RiderProjects\Solution1\Session2\s2_polymorfism\obj\Debug\net5.0\s2_polymorfism.csproj.AssemblyReference.cache
+C:\Users\LineK\RiderProjects\Solution1\Session2\s2_polymorfism\obj\Debug\net5.0\s2_polymorfism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LineK\RiderProjects\Solution1\Session2\s2_polymorfism\obj\Debug\net5.0\s2_polymorfism.AssemblyInfoInputs.cache
+C:\Users\LineK\RiderProjects\Solution1\Session2\s2_polymorfism\obj\Debug\net5.0\s2_polymorfism.AssemblyInfo.cs
+C:\Users\LineK\RiderProjects\Solution1\Session2\s2_polymorfism\obj\Debug\net5.0\s2_polymorfism.csproj.CoreCompileInputs.cache
+C:\Users\LineK\RiderProjects\Solution1\Session2\s2_polymorfism\obj\Debug\net5.0\s2_polymorfism.dll
+C:\Users\LineK\RiderProjects\Solution1\Session2\s2_polymorfism\obj\Debug\net5.0\ref\s2_polymorfism.dll
+C:\Users\LineK\RiderProjects\Solution1\Session2\s2_polymorfism\obj\Debug\net5.0\s2_polymorfism.pdb
+C:\Users\LineK\RiderProjects\Solution1\Session2\s2_polymorfism\obj\Debug\net5.0\s2_polymorfism.genruntimeconfig.cache

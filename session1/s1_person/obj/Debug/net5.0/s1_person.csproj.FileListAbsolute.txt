@@ -1,0 +1,16 @@
+C:\Users\LineK\RiderProjects\Solution1\session1\s1_person\bin\Debug\net5.0\s1_person.exe
+C:\Users\LineK\RiderProjects\Solution1\session1\s1_person\bin\Debug\net5.0\s1_person.deps.json
+C:\Users\LineK\RiderProjects\Solution1\session1\s1_person\bin\Debug\net5.0\s1_person.runtimeconfig.json
+C:\Users\LineK\RiderProjects\Solution1\session1\s1_person\bin\Debug\net5.0\s1_person.runtimeconfig.dev.json
+C:\Users\LineK\RiderProjects\Solution1\session1\s1_person\bin\Debug\net5.0\s1_person.dll
+C:\Users\LineK\RiderProjects\Solution1\session1\s1_person\bin\Debug\net5.0\ref\s1_person.dll
+C:\Users\LineK\RiderProjects\Solution1\session1\s1_person\bin\Debug\net5.0\s1_person.pdb
+C:\Users\LineK\RiderProjects\Solution1\session1\s1_person\obj\Debug\net5.0\s1_person.csproj.AssemblyReference.cache
+C:\Users\LineK\RiderProjects\Solution1\session1\s1_person\obj\Debug\net5.0\s1_person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LineK\RiderProjects\Solution1\session1\s1_person\obj\Debug\net5.0\s1_person.AssemblyInfoInputs.cache
+C:\Users\LineK\RiderProjects\Solution1\session1\s1_person\obj\Debug\net5.0\s1_person.AssemblyInfo.cs
+C:\Users\LineK\RiderProjects\Solution1\session1\s1_person\obj\Debug\net5.0\s1_person.csproj.CoreCompileInputs.cache
+C:\Users\LineK\RiderProjects\Solution1\session1\s1_person\obj\Debug\net5.0\s1_person.dll
+C:\Users\LineK\RiderProjects\Solution1\session1\s1_person\obj\Debug\net5.0\ref\s1_person.dll
+C:\Users\LineK\RiderProjects\Solution1\session1\s1_person\obj\Debug\net5.0\s1_person.pdb
+C:\Users\LineK\RiderProjects\Solution1\session1\s1_person\obj\Debug\net5.0\s1_person.genruntimeconfig.cache

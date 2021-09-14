@@ -1,0 +1,16 @@
+C:\Users\LineK\RiderProjects\Solution1\Session2\s2_WaitingRoom\bin\Debug\net5.0\s2_WaitingRoom.exe
+C:\Users\LineK\RiderProjects\Solution1\Session2\s2_WaitingRoom\bin\Debug\net5.0\s2_WaitingRoom.deps.json
+C:\Users\LineK\RiderProjects\Solution1\Session2\s2_WaitingRoom\bin\Debug\net5.0\s2_WaitingRoom.runtimeconfig.json
+C:\Users\LineK\RiderProjects\Solution1\Session2\s2_WaitingRoom\bin\Debug\net5.0\s2_WaitingRoom.runtimeconfig.dev.json
+C:\Users\LineK\RiderProjects\Solution1\Session2\s2_WaitingRoom\bin\Debug\net5.0\s2_WaitingRoom.dll
+C:\Users\LineK\RiderProjects\Solution1\Session2\s2_WaitingRoom\bin\Debug\net5.0\ref\s2_WaitingRoom.dll
+C:\Users\LineK\RiderProjects\Solution1\Session2\s2_WaitingRoom\bin\Debug\net5.0\s2_WaitingRoom.pdb
+C:\Users\LineK\RiderProjects\Solution1\Session2\s2_WaitingRoom\obj\Debug\net5.0\s2_WaitingRoom.csproj.AssemblyReference.cache
+C:\Users\LineK\RiderProjects\Solution1\Session2\s2_WaitingRoom\obj\Debug\net5.0\s2_WaitingRoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LineK\RiderProjects\Solution1\Session2\s2_WaitingRoom\obj\Debug\net5.0\s2_WaitingRoom.AssemblyInfoInputs.cache
+C:\Users\LineK\RiderProjects\Solution1\Session2\s2_WaitingRoom\obj\Debug\net5.0\s2_WaitingRoom.AssemblyInfo.cs
+C:\Users\LineK\RiderProjects\Solution1\Session2\s2_WaitingRoom\obj\Debug\net5.0\s2_WaitingRoom.csproj.CoreCompileInputs.cache
+C:\Users\LineK\RiderProjects\Solution1\Session2\s2_WaitingRoom\obj\Debug\net5.0\s2_WaitingRoom.dll
+C:\Users\LineK\RiderProjects\Solution1\Session2\s2_WaitingRoom\obj\Debug\net5.0\ref\s2_WaitingRoom.dll
+C:\Users\LineK\RiderProjects\Solution1\Session2\s2_WaitingRoom\obj\Debug\net5.0\s2_WaitingRoom.pdb
+C:\Users\LineK\RiderProjects\Solution1\Session2\s2_WaitingRoom\obj\Debug\net5.0\s2_WaitingRoom.genruntimeconfig.cache
