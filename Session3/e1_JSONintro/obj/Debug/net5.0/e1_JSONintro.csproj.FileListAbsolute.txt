@@ -1,0 +1,16 @@
+C:\Users\LineK\RiderProjects\Solution1\Session3\e1_JSONintro\bin\Debug\net5.0\e1_JSONintro.exe
+C:\Users\LineK\RiderProjects\Solution1\Session3\e1_JSONintro\bin\Debug\net5.0\e1_JSONintro.deps.json
+C:\Users\LineK\RiderProjects\Solution1\Session3\e1_JSONintro\bin\Debug\net5.0\e1_JSONintro.runtimeconfig.json
+C:\Users\LineK\RiderProjects\Solution1\Session3\e1_JSONintro\bin\Debug\net5.0\e1_JSONintro.runtimeconfig.dev.json
+C:\Users\LineK\RiderProjects\Solution1\Session3\e1_JSONintro\bin\Debug\net5.0\e1_JSONintro.dll
+C:\Users\LineK\RiderProjects\Solution1\Session3\e1_JSONintro\bin\Debug\net5.0\ref\e1_JSONintro.dll
+C:\Users\LineK\RiderProjects\Solution1\Session3\e1_JSONintro\bin\Debug\net5.0\e1_JSONintro.pdb
+C:\Users\LineK\RiderProjects\Solution1\Session3\e1_JSONintro\obj\Debug\net5.0\e1_JSONintro.csproj.AssemblyReference.cache
+C:\Users\LineK\RiderProjects\Solution1\Session3\e1_JSONintro\obj\Debug\net5.0\e1_JSONintro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LineK\RiderProjects\Solution1\Session3\e1_JSONintro\obj\Debug\net5.0\e1_JSONintro.AssemblyInfoInputs.cache
+C:\Users\LineK\RiderProjects\Solution1\Session3\e1_JSONintro\obj\Debug\net5.0\e1_JSONintro.AssemblyInfo.cs
+C:\Users\LineK\RiderProjects\Solution1\Session3\e1_JSONintro\obj\Debug\net5.0\e1_JSONintro.csproj.CoreCompileInputs.cache
+C:\Users\LineK\RiderProjects\Solution1\Session3\e1_JSONintro\obj\Debug\net5.0\e1_JSONintro.dll
+C:\Users\LineK\RiderProjects\Solution1\Session3\e1_JSONintro\obj\Debug\net5.0\ref\e1_JSONintro.dll
+C:\Users\LineK\RiderProjects\Solution1\Session3\e1_JSONintro\obj\Debug\net5.0\e1_JSONintro.pdb
+C:\Users\LineK\RiderProjects\Solution1\Session3\e1_JSONintro\obj\Debug\net5.0\e1_JSONintro.genruntimeconfig.cache
