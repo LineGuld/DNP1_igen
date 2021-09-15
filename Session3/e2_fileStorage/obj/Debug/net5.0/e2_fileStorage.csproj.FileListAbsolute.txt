@@ -1,0 +1,16 @@
+C:\Users\LineK\RiderProjects\Solution1\Session3\e2_fileStorage\bin\Debug\net5.0\e2_fileStorage.exe
+C:\Users\LineK\RiderProjects\Solution1\Session3\e2_fileStorage\bin\Debug\net5.0\e2_fileStorage.deps.json
+C:\Users\LineK\RiderProjects\Solution1\Session3\e2_fileStorage\bin\Debug\net5.0\e2_fileStorage.runtimeconfig.json
+C:\Users\LineK\RiderProjects\Solution1\Session3\e2_fileStorage\bin\Debug\net5.0\e2_fileStorage.runtimeconfig.dev.json
+C:\Users\LineK\RiderProjects\Solution1\Session3\e2_fileStorage\bin\Debug\net5.0\e2_fileStorage.dll
+C:\Users\LineK\RiderProjects\Solution1\Session3\e2_fileStorage\bin\Debug\net5.0\ref\e2_fileStorage.dll
+C:\Users\LineK\RiderProjects\Solution1\Session3\e2_fileStorage\bin\Debug\net5.0\e2_fileStorage.pdb
+C:\Users\LineK\RiderProjects\Solution1\Session3\e2_fileStorage\obj\Debug\net5.0\e2_fileStorage.csproj.AssemblyReference.cache
+C:\Users\LineK\RiderProjects\Solution1\Session3\e2_fileStorage\obj\Debug\net5.0\e2_fileStorage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LineK\RiderProjects\Solution1\Session3\e2_fileStorage\obj\Debug\net5.0\e2_fileStorage.AssemblyInfoInputs.cache
+C:\Users\LineK\RiderProjects\Solution1\Session3\e2_fileStorage\obj\Debug\net5.0\e2_fileStorage.AssemblyInfo.cs
+C:\Users\LineK\RiderProjects\Solution1\Session3\e2_fileStorage\obj\Debug\net5.0\e2_fileStorage.csproj.CoreCompileInputs.cache
+C:\Users\LineK\RiderProjects\Solution1\Session3\e2_fileStorage\obj\Debug\net5.0\e2_fileStorage.dll
+C:\Users\LineK\RiderProjects\Solution1\Session3\e2_fileStorage\obj\Debug\net5.0\ref\e2_fileStorage.dll
+C:\Users\LineK\RiderProjects\Solution1\Session3\e2_fileStorage\obj\Debug\net5.0\e2_fileStorage.pdb
+C:\Users\LineK\RiderProjects\Solution1\Session3\e2_fileStorage\obj\Debug\net5.0\e2_fileStorage.genruntimeconfig.cache

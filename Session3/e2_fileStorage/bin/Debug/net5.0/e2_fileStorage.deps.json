@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "e2_fileStorage/1.0.0": {
+        "runtime": {
+          "e2_fileStorage.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "e2_fileStorage/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

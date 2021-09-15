@@ -1,0 +1,39 @@
+[
+  {
+    "FirstName": "Tina",
+    "LastName": "Hadberg",
+    "Age": 20,
+    "Height": 1.7,
+    "IsMarried": false,
+    "Sex": "F",
+    "Hobbies": [
+      "Strik",
+      "Grafitti",
+      "Hest"
+    ]
+  },
+  {
+    "FirstName": "Stefan",
+    "LastName": "Knudsen",
+    "Age": 37,
+    "Height": 2.01,
+    "IsMarried": false,
+    "Sex": "M",
+    "Hobbies": [
+      "Have",
+      "Sm\u00F8lf"
+    ]
+  },
+  {
+    "FirstName": "Frederik",
+    "LastName": "Bergmann",
+    "Age": 30,
+    "Height": 1.85,
+    "IsMarried": true,
+    "Sex": "M",
+    "Hobbies": [
+      "Dark Souls",
+      "Voksenting"
+    ]
+  }
+]
