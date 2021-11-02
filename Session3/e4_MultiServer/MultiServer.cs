@@ -43,6 +43,7 @@ namespace e4_MultiServer
                 if (s.Equals("exit"))
                 {
                     // close connection
+                    stream.Close();
                     client.Close();
                 }
 
